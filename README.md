@@ -53,7 +53,7 @@
   </a>
   <img width="12" />
   
-  <a href="https://www.linkedin.com/in/digvijay-jakhaniya-40a1791a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/digvijayjakhaniya/" target="_blank">
      <img src="https://cdn.simpleicons.org/Linkedin" height="35" alt="Linkedin logo"  />
   </a>
   <img width="12" />
