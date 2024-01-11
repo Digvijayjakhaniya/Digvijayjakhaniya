@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">As a creative web developer with project-based experience, I can help you develop your website.<br><br>I like to craft solid and scalable Fullstack products with great user experiences. I use my passion and skills to develop websites for different agencies and companies. I have expertise in various languages like CSS, HTML, React.js, PHP, and many more. Always ready to enhance skills and expertise in different domains.</p>
+<p align="left">As a creative web developer with project-based experience, I can help you develop your website.<br><br>I like to craft solid and scalable Fullstack products with great user experiences. I use my passion and skills to develop websites for different agencies and companies. I have expertise in various languages like CSS, HTML, React.js,flutter, PHP, and many more. Always ready to enhance skills and expertise in different domains.</p>
 
 
 <br clear="both">
