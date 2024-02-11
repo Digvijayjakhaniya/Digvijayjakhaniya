@@ -2,7 +2,7 @@
 <div class="background-circle" style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);background-color: rgba(0, 123, 255, 0.1);width: 400px;height: 400px;border-radius: 50%;z-index: -1;animation: float 5s infinite alternate;"></div>
 
 <div class="container" style="max-width: 800px;margin: 50px auto;padding: 20px;background-color: #fff;border-radius: 8px;box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);position: relative;overflow: hidden;">
-<h1 style="text-align: center;margin-bottom: 20px;color: #333;">Hello! I’m Digvijay Jakhaniya 👋</h1>
+    <h1 style="text-align: center;margin-bottom: 20px;color: #333;">Hello! I’m Digvijay Jakhaniya 👋</h1>
 
 <p style="text-align: center;margin-bottom: 30px;">As a creative web developer with project-based experience, I can help you develop your website.<br><br>I like to craft solid and scalable Fullstack products with great user experiences. I use my passion and skills to develop websites for different agencies and companies. I have expertise in various languages like CSS, HTML, React.js, Flutter, PHP, and many more. Always ready to enhance skills and expertise in different domains.</p>
 
@@ -38,4 +38,5 @@
     <a style="padding: 10px;" href="https://twitter.com/Digvijay__02" target="_blank">
         <img src="https://cdn.simpleicons.org/X/1DA1F2" height="35" alt="X logo" />
     </a>
+</div>
 </div>
