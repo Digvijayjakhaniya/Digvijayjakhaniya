@@ -51,22 +51,22 @@
   <a href="https://linktr.ee/digvijay.jakhaniya" target="_blank">
      <img src="https://cdn.simpleicons.org/linktree" height="35" alt="linktree logo"  />
   </a>
-  <img width="12" />
+  <pre>   </pre>
   
   <a href="https://www.linkedin.com/in/digvijayjakhaniya/" target="_blank">
      <img src="https://cdn.simpleicons.org/Linkedin" height="35" alt="Linkedin logo"  />
   </a>
-  <img width="12" />
+  <pre>   </pre>
   
   <a href="https://www.instagram.com/digvijay.jakhaniya/" target="_blank">
      <img src="https://cdn.simpleicons.org/instagram" height="35" alt="Instagram logo"  />
   </a>
-  <img width="12" />
+  <pre>   </pre>
   
   <a href="https://www.facebook.com/digvijay.jakhaniyaaa" target="_blank">
      <img src="https://cdn.simpleicons.org/facebook" height="35" alt="Facebook logo"  />
   </a>
-  <img width="12" />
+  <pre>   </pre>
   
   <a href="https://twitter.com/Digvijay__02" target="_blank">
      <img src="https://cdn.simpleicons.org/X/ffff" height="35" alt="X logo"  />
