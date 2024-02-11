@@ -1,4 +1,4 @@
-<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background-color: #f5f5f5;color: #333;margin: 0;padding: 0;" >
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background-color: #f5f5f5;color: #333;margin: 0;padding: 0;" >
 
   <div class="background-circle" style="position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);background-color: rgba(0, 123, 255, 0.1);width: 400px;height: 400px;border-radius: 50%;z-index: -1;animation: float 5s infinite alternate;"></div>
 
@@ -40,4 +40,4 @@
           <img src="https://cdn.simpleicons.org/X/1DA1F2" height="35" alt="X logo" />
       </a>
   </div>
-</body>
+</div>
