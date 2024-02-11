@@ -19,7 +19,7 @@
     <img onmouseenter="style='filter: none;margin: 5px;'" onmouseleave="style='margin: 5px;filter: grayscale(50%);transition: filter 0.3s ease;'" style="margin: 5px;filter: grayscale(50%);transition: filter 0.3s ease;" src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo">
     <img onmouseenter="style='filter: none;margin: 5px;'" onmouseleave="style='margin: 5px;filter: grayscale(50%);transition: filter 0.3s ease;'" style="margin: 5px;filter: grayscale(50%);transition: filter 0.3s ease;" src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB logo">
 </div>  
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DigvijayJakhaniya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -27,7 +27,7 @@
 <h2 style="text-align: center;margin-bottom: 20px;color: #333;">Social Media Links</h2>
 
 <div class="social-links" style="display: flex;justify-content: center;margin-top: 20px;">
-    <a style="margin: 10px;" href="https://linktr.ee/digvijay.jakhaniya" target="_blank">
+    <a padding='10px' style="margin: 10px;" href="https://linktr.ee/digvijay.jakhaniya" target="_blank">
         <img src="https://cdn.simpleicons.org/linktree" height="35" alt="linktree logo"  />
     </a>
     <a style="margin: 10px;" href="https://www.linkedin.com/in/digvijayjakhaniya/" target="_blank">
