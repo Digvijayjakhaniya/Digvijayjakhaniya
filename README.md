@@ -24,22 +24,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DigvijayJakhaniya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2 style="text-align: center;margin-bottom: 20px;color: #333;">Social Media Links</h2>
-
-<div class="social-links" style="display: flex;justify-content: center;margin-top: 20px;">
-    <a padding='10px' style="margin: 10px;" href="https://linktr.ee/digvijay.jakhaniya" target="_blank">
+<h2>Social Media Links</h2>
+<div>
+    <a padding='10px' href="https://linktr.ee/digvijay.jakhaniya" target="_blank">
         <img src="https://cdn.simpleicons.org/linktree" height="35" alt="linktree logo"  />
     </a>
-    <a style="margin: 10px;" href="https://www.linkedin.com/in/digvijayjakhaniya/" target="_blank">
+    <a padding='10px' href="https://www.linkedin.com/in/digvijayjakhaniya/" target="_blank">
         <img src="https://cdn.simpleicons.org/Linkedin" height="35" alt="Linkedin logo"  />
     </a>  
-    <a style="margin: 10px;" href="https://www.instagram.com/digvijay.jakhaniya/" target="_blank">
+    <a padding='10px' href="https://www.instagram.com/digvijay.jakhaniya/" target="_blank">
         <img src="https://cdn.simpleicons.org/instagram" height="35" alt="Instagram logo"  />
     </a>  
-    <a style="padding: 10px;" href="https://www.facebook.com/digvijay.jakhaniyaaa" target="_blank">
+    <a padding='10px' href="https://www.facebook.com/digvijay.jakhaniyaaa" target="_blank">
         <img src="https://cdn.simpleicons.org/facebook" height="35" alt="Facebook logo"  />
     </a>  
-    <a style="padding: 10px;" href="https://twitter.com/Digvijay__02" target="_blank">
+    <a padding='10px' href="https://twitter.com/Digvijay__02" target="_blank">
         <img src="https://cdn.simpleicons.org/X/1DA1F2" height="35" alt="X logo" />
     </a>
 </div>
