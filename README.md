@@ -4,7 +4,7 @@
 <div align="center" class="container" style="max-width: 800px;margin: 50px auto;padding: 20px;background-color: #fff;border-radius: 8px;box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);position: relative;overflow: hidden;">
     <h1>Hello! I’m Digvijay Jakhaniya 👋</h1>
 
-<p align="center">As a creative web developer with project-based experience, I can help you develop your website.<br><br>I like to craft solid and scalable Fullstack products with great user experiences. I use my passion and skills to develop websites for different agencies and companies. I have expertise in various languages like CSS, HTML, React.js, Flutter, PHP, and many more. Always ready to enhance skills and expertise in different domains.</p>
+<p align="center">As a creative web developer with project-based experience, I can help you develop your website.<br><br>I like to craft solid and scalable Fullstack products with great user experiences. I use my passion and skills to develop websites for different agencies and companies. I have expertise in various languages like React.js, Node.js, Express.js, Flutter, PHP, Laravel, and many more. Always ready to enhance skills and expertise in different domains.</p>
 
 <h2 align="center">Skills</h2>
 
@@ -13,8 +13,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">
     <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP logo">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo">
+    <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="Node logo">
+    <img src="https://cdn.simpleicons.org/express/000000/ffffff" height="40" alt="express logo">
     <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="Flutter logo">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo">
     <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB logo">
