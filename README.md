@@ -13,6 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo">
     <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP logo">
+    <img src="https://cdn.simpleicons.org/laravel" height="40" alt="Laravel logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo">
     <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="Node logo">
     <img src="https://cdn.simpleicons.org/express/000000/ffffff" height="40" alt="express logo">
