@@ -32,15 +32,12 @@
         <img src="https://cdn.simpleicons.org/linktree" height="35" alt="linktree logo"/>
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/digvijayjakhaniya/" target="_blank">
-        <img src="https://cdn.simpleicons.org/Linkedin" height="35" alt="Linkedin logo"  />
+        <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="Linkedin logo"  />
     </a>  &nbsp;
     <a href="https://www.instagram.com/digvijay.jakhaniya/" target="_blank">
         <img src="https://cdn.simpleicons.org/instagram" height="35" alt="Instagram logo"  />
     </a>  &nbsp;
-    <a  href="https://www.facebook.com/digvijay.jakhaniya" target="_blank">
-        <img src="https://cdn.simpleicons.org/facebook" height="35" alt="Facebook logo"  />
-    </a>   &nbsp;
-    <a href="https://twitter.com/Digvijay__02" target="_blank">
+    <a href="https://x.com/Digvijay__02" target="_blank">
         <img src="https://cdn.simpleicons.org/X/1DA1F2" height="35" alt="X logo" />
     </a>
 </div>
